@@ -1,0 +1,41 @@
+body {
+    background-color: #2A3BAB;
+}
+
+#texto1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 2px;
+    color: black;
+    text-decoration: underline;
+}
+
+#paragrafo {
+    display: flex;
+    justify-content: center;
+    color: white;
+    opacity: 0.7;
+}
+
+h2 {
+    outline-style: solid;
+    outline-color: white;
+    outline-width: 1px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+
+#link {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
